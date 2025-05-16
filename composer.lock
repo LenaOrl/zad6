@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "63ec93220b9871bc1c2c1fa20bf286cc",
+    "packages": [
+        {
+            "name": "lena/zad6",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/LenaOrl/lib.git",
+                "reference": "70eaf3711f9245e3b0620337e988396c44c421b0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/LenaOrl/lib/zipball/70eaf3711f9245e3b0620337e988396c44c421b0",
+                "reference": "70eaf3711f9245e3b0620337e988396c44c421b0",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Lena\\Zad6\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Lena Orlova"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/LenaOrl/lib/tree/main",
+                "issues": "https://github.com/LenaOrl/lib/issues"
+            },
+            "time": "2025-05-12T20:42:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "lena/zad6": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
